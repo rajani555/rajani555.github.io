@@ -4,7 +4,7 @@ console.log(aTag);
 
 function downloadCV() {
   if (confirm("We are redirecting you to GitHub, are you sure ?")) {
-    aTag.href = "https://github.com/rajani555/RESUME-PDF";
+    aTag.href = "https://github.com/rajani555/Resume-PDF_WORD";
   } else {
     return false;
   }
